@@ -38,6 +38,7 @@ Following procedures from our data cleaning, we converted the dataset from XLSX 
 | ... | ...         | ...                 | ...           | ...              | ...                | ...                | ...        | ...        | ...                   | ...           | ...             |
 
 
+
 ## Baseline Model Overview and Performance Analysis for Power Outage Duration Prediction
 
 ### Baseline Model Description
